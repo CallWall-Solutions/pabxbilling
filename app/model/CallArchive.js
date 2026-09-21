@@ -1,0 +1,63 @@
+Ext.define('MBilling.model.CallArchive', {
+    extend: 'Ext.data.Model',
+    fields: [{
+        name: 'id',
+        type: 'int'
+    }, {
+        name: 'id_user',
+        type: 'int'
+    }, {
+        name: 'id_plan',
+        type: 'int'
+    }, {
+        name: 'id_trunk',
+        type: 'int'
+    }, {
+        name: 'id_prefix',
+        type: 'int'
+    }, {
+        name: 'real_sessiontime',
+        type: 'int'
+    }, {
+        name: 'starttime',
+        type: 'date',
+        dateFormat: 'Y-m-d H:i:s'
+    }, {
+        name: 'calledstation',
+        type: 'string'
+    }, {
+        name: 'sessiontime',
+        type: 'int'
+    }, {
+        name: 'terminatecauseid',
+        type: 'int'
+    }, {
+        name: 'buycost',
+        type: 'number'
+    }, {
+        name: 'sessionbill',
+        type: 'number'
+    }, {
+        name: 'agent_bill',
+        type: 'number'
+    }, {
+        name: 'src',
+        type: 'string'
+    }, {
+        name: 'callerid',
+        type: 'string'
+    }, {
+        name: 'sipiax',
+        type: 'int'
+    }, {
+        name: 'uniqueid',
+        type: 'string'
+    }, 'idPrefixdestination', 'idUserusername', 'idPlanname', 'idTrunktrunkcode', 'idCampaignname', {
+        name: 'id_campaign',
+        type: 'int'
+    }],
+    proxy: {
+        type: 'uxproxy',
+        module: 'callArchive'
+    }
+});

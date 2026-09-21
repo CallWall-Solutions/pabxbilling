@@ -1,0 +1,29 @@
+Ext.define('MBilling.model.Api', {
+    extend: 'Ext.data.Model',
+    fields: [{
+        name: 'id',
+        type: 'int'
+    }, {
+        name: 'id_user',
+        type: 'int'
+    }, {
+        name: 'api_key',
+        type: 'string'
+    }, {
+        name: 'api_secret',
+        type: 'string'
+    }, {
+        name: 'action',
+        type: 'string'
+    }, {
+        name: 'status',
+        type: 'int'
+    }, {
+        name: 'api_restriction_ips',
+        type: 'string'
+    }, 'idUserusername'],
+    proxy: {
+        type: 'uxproxy',
+        module: 'api'
+    }
+});

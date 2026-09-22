@@ -1,6 +1,5 @@
 <?php
 
-/** Parses an ngrep SIP capture without exposing authentication material. */
 class SipRegisterCaptureService
 {
     private $evidencePackets = [];

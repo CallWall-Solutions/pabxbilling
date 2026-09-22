@@ -1,18 +1,3 @@
-/**
- * Classe que define o form de "Did"
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author  Adilson Leffa Magnus.
- * @copyright Todos os direitos reservados.
- * ###################################
- * =======================================
- * MagnusSolution.com <info@magnussolution.com>
- * 24/09/2012
- */
 Ext.define('MBilling.view.sms.Form', {
     extend: 'Ext.ux.form.Panel',
     alias: 'widget.smsform',

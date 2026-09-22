@@ -1,5 +1,3 @@
-/** * Overrides.form.field.Tag
- */
 Ext.define('Overrides.form.field.Tag', {
     override: 'Ext.form.field.Tag',
     // OVERRIDE - EXTJS-14530 - (Actual fix in 5.0.2)

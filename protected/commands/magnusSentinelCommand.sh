@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 set -Eeuo pipefail
 
 readonly SENTINEL_MODULE=/usr/lib/asterisk/modules/app_mbilling.so

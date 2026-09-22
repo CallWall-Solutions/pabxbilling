@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Performs a bounded, read-only check of fixed-IP PJSIP authentication.
- */
 class PjsipIpAuthenticationProbe
 {
     private $commandRunner;

@@ -1,9 +1,3 @@
-/**
- * Classe que define o form de "CampaignPoll"
- *
- * MagnusSolution.com <info@magnussolution.com>
- * 19/09/2012
- */
 Ext.define('MBilling.view.campaignPoll.Form', {
     extend: 'Ext.ux.form.Panel',
     alias: 'widget.campaignpollform',

@@ -1,9 +1,3 @@
-/**
- * Classe que define o panel de "dashboardQueue"
- *
- * MagnusSolution.com <info@magnussolution.com>
- * 17/08/2012
- */
 Ext.define('MBilling.view.dashboardQueue.Module', {
     extend: 'Ext.panel.Panel',
     alias: 'widget.dashboardqueuemodule',

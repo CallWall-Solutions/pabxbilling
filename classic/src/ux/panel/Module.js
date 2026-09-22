@@ -1,9 +1,3 @@
-/**
- * Class to create modules
- *
- * Adilson L. Magnus <info@magnussolution.com>
- * 14/07/2014
- */
 Ext.define('Ext.ux.panel.Module', {
     extend: 'Ext.container.Container',
     alias: 'widget.uxpanelmodule',

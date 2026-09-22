@@ -1,8 +1,5 @@
 <?php
 
-/**
- *
- */
 class CSVActiveRecorder
 {
     private $translations;

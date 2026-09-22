@@ -1,6 +1,3 @@
-/**
- * Saúde operacional da pipeline, independente do estado dos incidentes.
- */
 Ext.define('MBilling.view.magnusSentinel.Health', {
     extend: 'Ext.grid.Panel',
     alias: 'widget.magnussentinelhealth',

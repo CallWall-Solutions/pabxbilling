@@ -1,20 +1,4 @@
 <?php
-/**
- * Acoes do modulo "CampaignReport".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author  Adilson Leffa Magnus.
- * @copyright   Todos os direitos reservados.
- * ###################################
- * =======================================
- * Magnusbilling.com <info@magnusbilling.com>
- * 28/07/2020
- */
-
 class CampaignReportController extends Controller
 {
     public $attributeOrder = 't.id';

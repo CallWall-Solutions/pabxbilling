@@ -1,23 +1,3 @@
-/**
- * Filter by a configurable Ext.form.field.Text
- * <p><b><u>Example Usage:</u></b></p>
- * <pre><code>
-var filters = Ext.create('Ext.ux.grid.GridFilters', {
-    ...
-    filters: [{
-        // required configs
-        type: 'string',
-        dataIndex: 'name',
-
-        // optional configs
-        value: 'foo',
-        active: true, // default is false
-        iconCls: 'ux-gridfilter-text-icon' // default
-        // any Ext.form.field.Text configs accepted
-    }]
-});
- * </code></pre>
- */
 Ext.define('Ext.ux.grid.filter.StringFilter', {
     extend: 'Ext.ux.grid.filter.Filter',
     alias: 'gridfilter.string',

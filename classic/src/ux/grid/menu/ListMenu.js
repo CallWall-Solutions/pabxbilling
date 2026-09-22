@@ -1,8 +1,3 @@
-/**
- * This is a supporting class for {@link Ext.ux.grid.filter.ListFilter}.
- * Although not listed as configuration options for this class, this class
- * also accepts all configuration options from {@link Ext.ux.grid.filter.ListFilter}.
- */
 Ext.define('Ext.ux.grid.menu.ListMenu', {
     extend: 'Ext.menu.Menu',
     /**

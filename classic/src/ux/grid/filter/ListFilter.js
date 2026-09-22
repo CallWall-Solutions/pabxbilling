@@ -1,28 +1,3 @@
-/**
- * List filters are able to be preloaded/backed by an Ext.data.Store to load
- * their options the first time they are shown. ListFilter utilizes the
- * {@link Ext.ux.grid.menu.ListMenu} component.
- *
- * List filters are also able to create their own list of values from  all unique values of
- * the specified {@link #dataIndex} field in the store at first time of filter invocation.
- *
- * Although not shown here, this class accepts all configuration options
- * for {@link Ext.ux.grid.menu.ListMenu}.
- *
- * Example Usage:
- *
- *     var filters = Ext.create('Ext.ux.grid.GridFilters', {
- *         ...
- *         filters: [{
- *             type: 'list',
- *             dataIndex: 'size',
- *             phpMode: true,
- *             // options will be used as data to implicitly creates an ArrayStore
- *             options: ['extra small', 'small', 'medium', 'large', 'extra large']
- *         }]
- *     });
- *
- */
 Ext.define('Ext.ux.grid.filter.ListFilter', {
     extend: 'Ext.ux.grid.filter.Filter',
     alias: 'gridfilter.list',

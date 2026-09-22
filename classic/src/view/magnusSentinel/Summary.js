@@ -1,6 +1,3 @@
-/**
- * Resumo por prioridade dos incidentes do Magnus Sentinel.
- */
 Ext.define('MBilling.view.magnusSentinel.Summary', {
     extend: 'Ext.container.Container',
     alias: 'widget.magnussentinelsummary',

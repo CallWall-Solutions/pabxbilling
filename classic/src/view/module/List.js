@@ -1,9 +1,3 @@
-/**
- * Class to define list of "Module"
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 15/04/2013
- */
 Ext.define('MBilling.view.module.List', {
     extend: 'Ext.ux.grid.Panel',
     alias: 'widget.modulelist',

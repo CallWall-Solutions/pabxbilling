@@ -1,9 +1,3 @@
-/**
- * Classe que define o panel de "dashboard"
- *
- * MagnusSolution.com <info@magnussolution.com>
- * 17/08/2012
- */
 Ext.define('MBilling.view.dashboard.Module', {
     extend: 'Ext.panel.Panel',
     alias: 'widget.dashboardmodule',

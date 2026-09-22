@@ -1,9 +1,5 @@
 <?php
 
-/**
- * Url for MP ruturn http://ip/billing/index.php/mercadoPago .
- * https://www.mercadopago.com.br/ipn-notifications
- */
 class MercadoPagoController extends CController
 {
     public $config;

@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd /var/log
 rm -rf *202*
 rm -rf asterisk/*202*

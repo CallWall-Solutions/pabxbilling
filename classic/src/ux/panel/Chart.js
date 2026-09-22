@@ -1,18 +1,3 @@
-/**
- * Classe para chart padrao
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author  Adilson Leffa Magnus.
- * @copyright   Todos os direitos reservados.
- * ###################################
- * =======================================
- * MagnusSolution.com <info@magnussolution.com>
- * 15/02/2011
- */
 Ext.define('Ext.ux.panel.Chart', {
     extend: 'Ext.panel.Panel',
     alias: 'widget.chartpanel',

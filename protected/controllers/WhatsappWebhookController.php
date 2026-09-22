@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Receives WhatsApp Business Cloud API webhook events from Meta.
- */
 class WhatsappWebhookController extends CController
 {
     public function actionIndex()

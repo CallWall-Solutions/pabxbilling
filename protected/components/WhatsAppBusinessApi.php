@@ -1,7 +1,4 @@
 <?php
-/**
- * Sends messages through the official WhatsApp Business Cloud API.
- */
 class WhatsAppBusinessApi
 {
     private $accessToken;

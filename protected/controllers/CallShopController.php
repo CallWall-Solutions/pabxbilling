@@ -1,20 +1,4 @@
 <?php
-/**
- * Acoes do modulo "CallShop".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author  Adilson Leffa Magnus.
- * @copyright   Todos os direitos reservados.
- * ###################################
- * =======================================
- * MagnusSolution.com <info@magnussolution.com>
- * 19/09/2012
- */
-
 class CallShopController extends Controller
 {
     public $attributeOrder = 't.callerid';

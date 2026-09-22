@@ -1,9 +1,3 @@
-/**
- * Class to define form to "Cliente"
- *
- * Adilson L. Magnus <info@magnussolution.com>
- * 15/04/2013
- */
 Ext.define('MBilling.view.templateMail.Form', {
     extend: 'Ext.ux.form.Panel',
     alias: 'widget.templatemailform',

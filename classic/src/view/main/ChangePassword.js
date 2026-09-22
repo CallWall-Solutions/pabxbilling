@@ -1,9 +1,3 @@
-/**
- * Class to change password
- *
- * Adilson L. Magnus <info@magnussolution.com>
- * 02/01/2014
- */
 Ext.define('MBilling.view.main.ChangePassword', {
     extend: 'Ext.window.Window',
     alias: 'widget.changepassword',

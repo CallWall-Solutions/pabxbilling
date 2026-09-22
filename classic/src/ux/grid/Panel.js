@@ -1,9 +1,3 @@
-/**
- * Class to creation of list
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 14/07/2014
- */
 Ext.define('Ext.ux.grid.Panel', {
     extend: 'Ext.grid.Panel',
     requires: ['Ext.grid.feature.Grouping', 'Ext.ux.grid.FiltersFeature', 'Ext.selection.CheckboxModel', 'Ext.toolbar.Paging', 'Ext.grid.column.Template', 'Ext.grid.column.Number', 'Ext.grid.column.Boolean', 'Ext.ux.form.SearchField', 'Ext.grid.column.Date'],

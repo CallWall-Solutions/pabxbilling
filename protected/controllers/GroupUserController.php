@@ -1,12 +1,5 @@
 <?php
 
-/**
- * Actions of module "GroupUser".
- *
- * MagnusBilling <info@magnusbilling.com>
- * 15/04/2013
- */
-
 class GroupUserController extends Controller
 {
     public $attributeOrder          = 't.id';

@@ -1,20 +1,5 @@
 <?php
 
-/**
- * View to modulo "PlacetoPay".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package    MagnusBilling
- * @author    Adilson Leffa Magnus.
- * @copyright    Todos os direitos reservados.
- * ###################################
- * =======================================
- * MagnusSolution.com <info@magnussolution.com>
- * 2016-03-18
- */
 ?>
 <?php
 

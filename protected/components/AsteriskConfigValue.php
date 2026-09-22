@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Enforces the single-line boundary required by Asterisk configuration files.
- */
 class AsteriskConfigValue
 {
     public static function assertSingleLine($value, $field = 'value')

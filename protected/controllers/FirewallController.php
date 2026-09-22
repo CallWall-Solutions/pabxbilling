@@ -1,13 +1,5 @@
 <?php
 
-/**
- * Actions of module "Firewall".
- *
- * MagnusBilling <info@magnusbilling.com>
- * 01/02/2014
- * Defaults!/usr/bin/fail2ban-client !requiretty
- */
-
 class FirewallController extends Controller
 {
 

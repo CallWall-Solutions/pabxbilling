@@ -1,9 +1,3 @@
-/*
- * File: DateTimePicker.js
- *
- * This file requires use of the Ext JS library, under independent license.
- * This is part of the UX for DateTimeField developed by Guilherme Portela
- */
 Ext.define('Ext.ux.DateTimePicker', {
     extend: 'Ext.picker.Date',
     alias: 'widget.datetimepicker',

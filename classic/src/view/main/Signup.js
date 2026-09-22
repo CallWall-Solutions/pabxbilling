@@ -1,9 +1,3 @@
-/**
- * Class to view Signup
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 08/07/2014
- */
 Ext.define('MBilling.view.main.Signup', {
     extend: 'Ext.window.Window',
     alias: 'widget.signup',

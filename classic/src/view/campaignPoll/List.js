@@ -1,9 +1,3 @@
-/**
- * Classe que define a lista de "Campaign"
- *
- * MagnusSolution.com <info@magnussolution.com>
- * 19/09/2012
- */
 Ext.define('MBilling.view.campaignPoll.List', {
     extend: 'Ext.ux.grid.Panel',
     alias: 'widget.campaignpolllist',

@@ -1,20 +1,4 @@
 <?php
-/**
- * Acoes do modulo "CallSummaryCallShop".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author  Adilson Leffa Magnus.
- * @copyright   Todos os direitos reservados.
- * ###################################
- * =======================================
- * MagnusSolution.com <info@magnussolution.com>
- * 17/08/2012
- */
-
 class CallSummaryCallShopController extends Controller
 {
     public $attributeOrder = 'day DESC';

@@ -1,8 +1,3 @@
-/**
- * Ux to import CSV
- * Adilson L. Magnus <info@magnussolution.com>
- * 11/08/2014
- */
 Ext.define('Ext.ux.window.ImportCsv', {
     extend: 'Ext.window.Window',
     requires: ['Ext.ux.form.field.FileUpload'],

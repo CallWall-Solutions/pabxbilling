@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Applies narrowly scoped, idempotent changes to Asterisk modules.conf.
- */
 class AsteriskModulesConfig
 {
     public static function ensureNoload($path, $module)

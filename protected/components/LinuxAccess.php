@@ -1,12 +1,5 @@
 <?php
 
-/**
- * Classe de com funcionalidades globais
- *
- * MagnusBilling <info@magnusbilling.com>
- * 08/07/2017
- */
-
 class LinuxAccess
 {
 

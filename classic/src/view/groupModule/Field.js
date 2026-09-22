@@ -1,9 +1,3 @@
-/**
- * Class to define field to "GroupModule"
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 02/07/2013
- */
 Ext.define('MBilling.view.groupModule.Field', {
     extend: 'Ext.form.FieldContainer',
     requires: ['MBilling.view.module.Combo', 'Ext.form.field.Checkbox', 'Ext.form.field.Tag', 'Ext.grid.plugin.RowEditing', 'Ext.grid.column.CheckColumn'],

@@ -1,9 +1,3 @@
-/**
- * Classe que define a combo de "CampaignCombo"
- *
- * MagnusSolution.com <info@magnussolution.com>
- * 28/10/2012
- */
 Ext.define('MBilling.view.campaignPoll.Combo', {
     extend: 'Ext.form.field.ComboBox',
     alias: 'widget.campaignpollcombo',

@@ -1,5 +1,3 @@
-#!/bin/bash
-
 get_linux_distribution ()
 { 
     if [ -f /etc/debian_version ]; then

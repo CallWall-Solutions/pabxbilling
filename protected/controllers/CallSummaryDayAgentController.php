@@ -1,20 +1,4 @@
 <?php
-/**
- * Acoes do modulo "Call".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author  Adilson Leffa Magnus.
- * @copyright   Todos os direitos reservados.
- * ###################################
- * =======================================
- * Magnusbilling.com <info@magnusbilling.com>
- * 17/08/2012
- */
-
 class CallSummaryDayAgentController extends Controller
 {
     public $attributeOrder = 'day DESC';

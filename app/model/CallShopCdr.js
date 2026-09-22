@@ -1,7 +1,3 @@
-/**
- * Classe que define a model "CallShopCdr"
- *
- * =======================================*/
 Ext.define('MBilling.model.CallShopCdr', {
     extend: 'Ext.data.Model',
     fields: [{

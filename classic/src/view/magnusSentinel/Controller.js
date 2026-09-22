@@ -1,6 +1,3 @@
-/**
- * Controller do painel operacional do Magnus Sentinel.
- */
 Ext.define('MBilling.view.magnusSentinel.Controller', {
     extend: 'Ext.app.ViewController',
     alias: 'controller.magnussentinel',

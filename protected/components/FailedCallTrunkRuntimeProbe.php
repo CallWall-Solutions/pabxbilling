@@ -1,10 +1,5 @@
 <?php
 
-/**
- * Performs bounded, read-only operational checks for trunks observed in one
- * failed call. Asterisk is queried through AMI; slaves are never contacted by
- * HTTP or SSH.
- */
 class FailedCallTrunkRuntimeProbe
 {
     const MAX_TRUNKS = 3;

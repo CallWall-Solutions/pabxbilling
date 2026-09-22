@@ -1,11 +1,5 @@
 <?php
 
-/**
- * Default Controll.
- *
- * MagnusBilling <info@magnusbilling.com>
- * 11/05/2017
- */
 class BaseController extends CController
 {
     public $success = true;

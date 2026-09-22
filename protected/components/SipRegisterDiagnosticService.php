@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Read-only REGISTER troubleshooting using recent Asterisk evidence.
- */
 class SipRegisterDiagnosticService
 {
     const LOG_FILE = '/var/log/asterisk/messages';

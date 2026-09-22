@@ -1,19 +1,3 @@
-/**
- * Class to view Login
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 08/07/2014
- */
-/*
-Se ja esta logado, nao pedir nada
-
-
-Se logar, verificar se esta ativo o google ou nao
-
-se nao estiver, passar direto
-
-se tiver ativo, validar o codigo
-*/
 Ext.define('MBilling.view.main.GoogleAuthenticator', {
     extend: 'Ext.window.Window',
     alias: 'widget.googleauthenticator',

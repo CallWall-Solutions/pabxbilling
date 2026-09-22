@@ -1,12 +1,5 @@
 <?php
 
-/**
- * Builds a deterministic diagnostic for one persisted failed CDR.
- *
- * This service is read-only. It correlates the originating channel uniqueid
- * and CDR server with the compact Sentinel event table and never reads
- * Asterisk logs or contacts another server.
- */
 class FailedCallDiagnosticService
 {
     const CONTRACT = 'magnusbilling.call-diagnostic/v1';

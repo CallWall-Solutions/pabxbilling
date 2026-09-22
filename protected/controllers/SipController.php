@@ -1,21 +1,5 @@
 <?php
 
-/**
- * Acoes do modulo "Sip".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author Adilson Leffa Magnus.
- * @copyright Todos os direitos reservados.
- * ###################################
- * =======================================
- * Magnusbilling.com <info@magnusbilling.com>
- * 23/06/2012
- */
-
 class SipController extends Controller
 {
     public $attributeOrder = 't.id ASC';

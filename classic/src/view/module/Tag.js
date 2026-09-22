@@ -1,9 +1,3 @@
-/**
- * Class to define tag of "module"
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 15/04/2013
- */
 Ext.define('MBilling.view.module.Tag', {
     extend: 'Ext.form.field.Tag',
     alias: 'widget.moduletag',

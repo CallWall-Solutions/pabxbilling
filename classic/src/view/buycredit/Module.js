@@ -1,9 +1,3 @@
-/**
- * Classe que define o panel de "buycredit"
- *
- * MagnusSolution.com <info@magnussolution.com>
- * 17/08/2012
- */
 Ext.define('MBilling.view.buycredit.Module', {
     extend: 'Ext.form.Panel',
     alias: 'widget.buycreditmodule',

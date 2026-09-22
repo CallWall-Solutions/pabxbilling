@@ -1,12 +1,5 @@
 <?php
 
-/**
- * Actions of module "Pedido".
- *
- * MagnusBilling <info@magnusbilling.com>
- * 05/06/2013
- */
-
 class SiteController extends Controller
 {
 

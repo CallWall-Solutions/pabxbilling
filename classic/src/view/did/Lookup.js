@@ -1,9 +1,3 @@
-/**
- * Class to define lookup of "did"
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 05/09/2019
- */
 Ext.define('MBilling.view.did.Lookup', {
     extend: 'Ext.ux.form.field.Lookup',
     alias: 'widget.didlookup',

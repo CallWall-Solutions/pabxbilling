@@ -1,21 +1,5 @@
 <?php
 
-/**
- * Acoes do modulo "CallOnLine".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author  Adilson Leffa Magnus.
- * @copyright   Todos os direitos reservados.
- * ###################################
- * =======================================
- * Magnusbilling.com <info@magnusbilling.com>
- * 19/09/2012
- */
-
 class CallOnLineController extends Controller
 {
     public $attributeOrder = 'status DESC, t.duration DESC';

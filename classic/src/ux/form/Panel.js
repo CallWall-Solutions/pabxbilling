@@ -1,9 +1,3 @@
-/**
- * Class to creation of forms
- *
- * Adilson L. Magnus <info@magnussolution.com>
- * 14/07/2014
- */
 Ext.define('Ext.ux.form.Panel', {
     extend: 'Ext.form.Panel',
     requires: ['Ext.form.field.Date', 'Ext.form.field.Checkbox', 'Ext.form.field.Number', 'Ext.form.field.Date', 'Ext.form.field.Time', 'Ext.form.field.Tag', 'Ext.ux.form.field.DateTime', 'Ext.ux.form.field.Float', 'Ext.ux.form.field.Money'],

@@ -1,12 +1,5 @@
 <?php
 
-/**
- * Executes the production AGI routing flow in its protected dry-run mode.
- *
- * Routing decisions belong to resources/asterisk. This service only resolves
- * the selected database entity, starts the isolated CLI process and converts
- * its structured output to the format consumed by the web interface.
- */
 class CallDiagnosticService
 {
     const MAX_OUTPUT_BYTES = 1048576;

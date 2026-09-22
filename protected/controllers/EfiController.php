@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Url for Efi ruturn http://ip/billing/index.php/efi .
- */
 require_once "lib/efi/vendor/autoload.php";
 
 use Efi\Exception\EfiException;

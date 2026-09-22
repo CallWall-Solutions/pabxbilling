@@ -1,9 +1,3 @@
-/**
- * Plugin to mark field required
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 10/07/2014
- */
 Ext.define('Ext.ux.form.field.MarkAllowBlank', {
     extend: 'Ext.AbstractPlugin',
     alias: 'plugin.markallowblank',

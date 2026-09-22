@@ -1,18 +1,4 @@
 <?php
-/**
- * ValidaCPFCNPJ valida e formata CPF e CNPJ
- *
- * Exemplo de uso:
- * $cpf_cnpj  = new ValidaCPFCNPJ('71569042000196');
- * $formatado = $cpf_cnpj->formata(); // 71.569.042/0001-96
- * $valida    = $cpf_cnpj->valida(); // True -> Válido
- *
- * @package  valida-cpf-cnpj
- * @author   Luiz Otávio Miranda <contato@tutsup.com>
- * @version  v1.3
- * @access   public
- * @see      http://www.tutsup.com/
- */
 class ValidaCPFCNPJ
 {
     /**

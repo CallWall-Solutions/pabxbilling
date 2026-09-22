@@ -1,19 +1,4 @@
 <?php
-/**
- * Modelo para a tabela "Call".
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author Adilson Leffa Magnus.
- * @copyright Todos os direitos reservados.
- * ###################################
- * =======================================
- * Magnusbilling.com <info@magnusbilling.com>
- * 19/09/2012
- */
-
 class Servers extends Model
 {
     protected $_module = 'servers';

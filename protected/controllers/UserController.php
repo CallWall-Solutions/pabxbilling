@@ -1,12 +1,5 @@
 <?php
 
-/**
- * Actions of module "User".
- *
- * MagnusBilling <info@magnusbilling.com>
- * 15/04/2013
- */
-
 class UserController extends Controller
 {
 

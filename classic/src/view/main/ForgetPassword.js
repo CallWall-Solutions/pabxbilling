@@ -1,10 +1,3 @@
-/**
- * Class to change password
- *
- * Adilson L. Magnus <info@magnussolution.com>
- * 02/01/2014
- */
-//https://www.google.com/recaptcha/admin#list
 Ext.define('MBilling.view.main.ForgetPassword', {
     extend: 'Ext.window.Window',
     alias: 'widget.forgetPassword',

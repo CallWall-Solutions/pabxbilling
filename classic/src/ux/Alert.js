@@ -1,9 +1,3 @@
-/**
- * Ux for alerts
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 26/11/2011
- */
 Ext.define('Ext.ux.Alert', {
     msgAlert: null,
     mapTypeMsg: {

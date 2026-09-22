@@ -1,9 +1,4 @@
 <?php
-/**
- * Model to table "Company".
- *
- */
-
 class Estados extends Model
 {
     protected $_module = 'user';

@@ -1,5 +1,3 @@
-#!/bin/bash
-
 set -euo pipefail
 
 readonly COMMAND_NAME="$(basename -- "$0")"

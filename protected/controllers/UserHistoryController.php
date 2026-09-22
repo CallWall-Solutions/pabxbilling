@@ -1,20 +1,4 @@
 <?php
-/**
- * Acoes do modulo "UserHistory".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author  Adilson Leffa Magnus.
- * @copyright   Todos os direitos reservados.
- * ###################################
- * =======================================
- * Magnusbilling.com <info@magnusbilling.com>
- * 06/06/2022
- */
-
 class UserHistoryController extends Controller
 {
     public $attributeOrder = 'date DESC';

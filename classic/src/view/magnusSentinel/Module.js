@@ -1,6 +1,3 @@
-/**
- * Módulo ExtJS nativo do Magnus Sentinel.
- */
 Ext.define('MBilling.view.magnusSentinel.Module', {
     extend: 'Ext.panel.Panel',
     alias: 'widget.magnussentinelmodule',

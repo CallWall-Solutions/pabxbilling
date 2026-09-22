@@ -1,9 +1,3 @@
-/**
- * Class to define lookup of "user"
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 05/09/2017
- */
 Ext.define('MBilling.view.trunk.Lookup', {
     extend: 'Ext.ux.form.field.Lookup',
     alias: 'widget.trunklookup',

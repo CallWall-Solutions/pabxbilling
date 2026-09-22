@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Url for IcePay ruturn http://ip/billing/index.php/icepay .
- */
 class IcepayController extends Controller
 {
 

@@ -1,8 +1,4 @@
-/**
- * Classe que define a model "CallSummaryDayUser"
- *
- * =======================================*/
- Ext.define('MBilling.model.CallSummaryMonthTrunk', {
+Ext.define('MBilling.model.CallSummaryMonthTrunk', {
     extend: 'Ext.data.Model',
     fields: [{
         name: 'id',

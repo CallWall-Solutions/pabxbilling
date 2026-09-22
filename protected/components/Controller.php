@@ -1,11 +1,5 @@
 <?php
 
-/**
- * Override default Controller methods.
- *
- * MagnusBilling <info@magnusbilling.com>
- * 11/05/2017
- */
 class Controller extends BaseController
 {
     public $nofilterPerAdminGroup = [

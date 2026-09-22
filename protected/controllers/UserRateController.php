@@ -1,11 +1,4 @@
 <?php
-/**
- * Actions of module "User".
- *
- * MagnusBilling <info@magnusbilling.com>
- * 15/04/2013
- */
-
 class UserRateController extends Controller
 {
     public $attributeOrder = 't.id DESC';

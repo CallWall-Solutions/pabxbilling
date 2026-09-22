@@ -1,6 +1,5 @@
 <?php
 
-/** Parse read-only Asterisk AMI command responses without exposing server details. */
 class WebphoneReadiness
 {
     public static function check($http, $websocket, $sipWebsocket)

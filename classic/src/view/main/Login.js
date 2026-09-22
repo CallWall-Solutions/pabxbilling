@@ -1,9 +1,3 @@
-/**
- * Class to view Login
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 08/07/2014
- */
 Ext.define('MBilling.view.main.Login', {
     extend: 'Ext.window.Window',
     requires: ['MBilling.view.main.ForgetPassword', 'MBilling.view.main.Signup'],

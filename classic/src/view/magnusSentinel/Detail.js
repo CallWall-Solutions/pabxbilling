@@ -1,6 +1,3 @@
-/**
- * Detalhe sob demanda dos incidentes do Magnus Sentinel.
- */
 Ext.define('MBilling.view.magnusSentinel.Detail', {
     extend: 'Ext.panel.Panel',
     alias: 'widget.magnussentineldetail',

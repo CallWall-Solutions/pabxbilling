@@ -1,9 +1,3 @@
-/**
- * Class define the model "Produto"
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 05/06/2013
- */
 Ext.define('MBilling.view.templateMail.Controller', {
     extend: 'Ext.ux.app.ViewController',
     alias: 'controller.templatemail',

@@ -1,13 +1,5 @@
 <?php
 
-/**
- * Contrato e consultas somente de leitura da API de incidentes.
- *
- * @magnus-sentinel-managed
- *
- * Este componente não consulta CDR nem eventos brutos. Todas as consultas
- * possuem período e paginação limitados.
- */
 class MagnusSentinelIncidentApiV1
 {
     const API_VERSION = 'magnus-sentinel.api/v1';

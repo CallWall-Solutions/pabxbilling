@@ -1,9 +1,3 @@
-/**
- * Class define the model "Produto"
- *
- * Adilson L. Magnus <info@magnusbilling.com> 
- * 05/06/2013
- */
 Ext.define('MBilling.model.TemplateMail', {
     extend: 'Ext.data.Model',
     fields: [{

@@ -1,9 +1,3 @@
-/**
- * Class to define list of "GroupModule"
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 15/04/2013
- */
 Ext.define('MBilling.view.groupModule.List', {
     extend: 'Ext.ux.grid.Panel',
     alias: 'widget.groupmodulelist',

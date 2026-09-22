@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Authentication helpers for the public ATA provisioning endpoint.
- */
 class AtaProvisioningAuth
 {
     const TOKEN_BYTES = 32;

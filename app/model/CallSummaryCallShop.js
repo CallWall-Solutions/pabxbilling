@@ -1,8 +1,4 @@
-/**
- * Classe que define a model "CallSummary"
- *
- * =======================================*/
- Ext.define('MBilling.model.CallSummaryCallShop', {
+Ext.define('MBilling.model.CallSummaryCallShop', {
     extend: 'Ext.data.Model',
     fields: [{
         name: 'id',

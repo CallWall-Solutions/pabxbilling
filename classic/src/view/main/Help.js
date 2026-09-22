@@ -1,9 +1,3 @@
-/**
- * Class to define help module
- *
- * Adilson L. Magnus <info@magnussolution.com>
- * 10/07/2014
- */
 Ext.define('MBilling.view.main.Help', {
     extend: 'Ext.container.Container',
     alias: 'widget.help',

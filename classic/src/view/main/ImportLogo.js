@@ -1,9 +1,3 @@
-/**
- * Class to window about
- *
- * Adilson L. Magnus <info@magnussolution.com>
- * 12/12/2012
- */
 Ext.define('MBilling.view.main.ImportLogo', {
     extend: 'Ext.window.Window',
     alias: 'widget.importlogo',

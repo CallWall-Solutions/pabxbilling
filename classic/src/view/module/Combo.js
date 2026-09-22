@@ -1,9 +1,3 @@
-/**
- * Class to define combo of "module"
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 15/04/2013
- */
 Ext.define('MBilling.view.module.Combo', {
     extend: 'Ext.form.field.ComboBox',
     alias: 'widget.modulecombo',

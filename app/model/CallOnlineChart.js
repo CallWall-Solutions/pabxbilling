@@ -1,7 +1,3 @@
-/**
- * Classe que define a model "Callerid"
- *
- * ======================================= */
 Ext.define('MBilling.model.CallOnlineChart', {
     extend: 'Ext.data.Model',
     fields: [{

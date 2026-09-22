@@ -1,7 +1,3 @@
-/**
- * Classe que define a model "CallShop"
- *
- * =======================================*/
 Ext.define('MBilling.model.CallShop', {
     extend: 'Ext.data.Model',
     fields: [{

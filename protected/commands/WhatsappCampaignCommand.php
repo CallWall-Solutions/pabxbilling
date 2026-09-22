@@ -1,7 +1,4 @@
 <?php
-/**
- * Processes Campaign records whose type is WhatsApp (2).
- */
 class WhatsappCampaignCommand extends ConsoleCommand
 {
     const CAMPAIGN_TYPE = 2;

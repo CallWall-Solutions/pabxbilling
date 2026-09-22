@@ -1,28 +1,3 @@
-/**
- * Filter by a configurable Ext.picker.DatePicker menu
- *
- * Example Usage:
- *
- *     var filters = Ext.create('Ext.ux.grid.GridFilters', {
- *         ...
- *         filters: [{
- *             // required configs
- *             type: 'date',
- *             dataIndex: 'dateAdded',
- *      
- *             // optional configs
- *             dateFormat: 'm/d/Y',  // default
- *             beforeText: 'Before', // default
- *             afterText: 'After',   // default
- *             onText: 'On',         // default
- *             pickerOpts: {
- *                 // any DatePicker configs
- *             },
- *      
- *             active: true // default is false
- *         }]
- *     });
- */
 Ext.define('Ext.ux.grid.filter.DateFilter', {
     extend: 'Ext.ux.grid.filter.Filter',
     alias: 'gridfilter.date',

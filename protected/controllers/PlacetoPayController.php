@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Url for PlacetoPay return http://ip/billing/index.php/placetoPay .
- */
 class PlacetoPayController extends Controller
 {
     public function actionIndex()

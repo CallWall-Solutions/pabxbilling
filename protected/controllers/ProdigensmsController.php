@@ -1,11 +1,5 @@
 <?php
 
-/**
- * Sends a Prodigensms template when a campaign forwards to this endpoint.
- *
- * Campaign example:
- * custom|http://127.0.0.1/mbilling/index.php/prodigensms/send?number=%number%&templateId=77&name=%name%
- */
 class ProdigensmsController extends Controller
 {
     public $addAuthorizedNoSession = 'prodigensms';

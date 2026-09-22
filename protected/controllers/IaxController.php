@@ -1,20 +1,4 @@
 <?php
-/**
- * Acoes do modulo "Iax".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author Adilson Leffa Magnus.
- * @copyright Todos os direitos reservados.
- * ###################################
- * =======================================
- * Magnusbilling.com <info@magnusbilling.com>
- * 23/06/2016
- */
-
 class IaxController extends Controller
 {
     public $attributeOrder = 'regseconds DESC';

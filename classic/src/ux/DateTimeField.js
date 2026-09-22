@@ -1,9 +1,3 @@
-/*
- * File: DateTimeField.js
- *
- * This file requires use of the Ext JS library, under independent license.
- * This is part of the UX for DateTimeField developed by Guilherme Portela
- */
 Ext.define('Ext.ux.DateTimeField', {
     extend: 'Ext.form.field.Date',
     alias: 'widget.datetimefield',

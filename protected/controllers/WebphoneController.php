@@ -1,9 +1,5 @@
 <?php
 
-/**
- * Public webphone shell. Authentication takes place directly with the SIP server.
- * CController intentionally avoids inheriting the billing CRUD/API actions.
- */
 class WebphoneController extends CController
 {
     public function init()

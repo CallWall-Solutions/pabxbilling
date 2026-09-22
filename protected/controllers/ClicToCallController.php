@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Url for customer register http://ip/billing/index.php/clicToCall?id=username .
- */
 class ClicToCallController extends Controller
 {
 

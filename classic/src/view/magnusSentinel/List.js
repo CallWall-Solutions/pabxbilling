@@ -1,6 +1,3 @@
-/**
- * Lista operacional dos incidentes do Magnus Sentinel.
- */
 Ext.define('MBilling.view.magnusSentinel.List', {
     extend: 'Ext.grid.Panel',
     alias: 'widget.magnussentinellist',

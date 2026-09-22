@@ -1,8 +1,3 @@
-/**
- * Custom implementation of {@link Ext.menu.Menu} that has preconfigured items for entering numeric
- * range comparison values: less-than, greater-than, and equal-to. This is used internally
- * by {@link Ext.ux.grid.filter.NumericFilter} to create its menu.
- */
 Ext.define('Ext.ux.grid.menu.RangeMenu', {
     extend: 'Ext.menu.Menu',
     /**

@@ -1,10 +1,5 @@
 <?php
 
-/**
- * API autenticada e somente de leitura dos incidentes do Magnus Sentinel.
- *
- * @magnus-sentinel-managed
- */
 class MagnusSentinelIncidentController extends Controller
 {
     public function init()

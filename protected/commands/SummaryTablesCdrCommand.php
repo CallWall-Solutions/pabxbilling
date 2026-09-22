@@ -1,7 +1,4 @@
 <?php
-/**
- * Incremental CDR summary maintenance.
- */
 class SummaryTablesCdrCommand extends CConsoleCommand
 {
     const DAY_USER = 'pkg_cdr_summary_day_user';

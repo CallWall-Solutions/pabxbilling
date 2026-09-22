@@ -1,21 +1,5 @@
 <?php
 
-/**
- * Acoes do modulo "Refill".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author  Adilson Leffa Magnus.
- * @copyright   Todos os direitos reservados.
- * ###################################
- * =======================================
- * Magnusbilling.com <info@magnusbilling.com>
- * 23/06/2012
- */
-
 class RefillController extends Controller
 {
     public $attributeOrder = 'date DESC';

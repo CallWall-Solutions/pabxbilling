@@ -1,6 +1,3 @@
-/**
- * Model dos incidentes do Magnus Sentinel.
- */
 Ext.define('MBilling.model.MagnusSentinelIncident', {
     extend: 'Ext.data.Model',
     idProperty: 'id',

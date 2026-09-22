@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Url for paypal ruturn http://ip/billing/index.php/paypal .
- */
 class PaypalController extends Controller
 {
 

@@ -1,9 +1,3 @@
-/**
- * Class define the model "GroupModule"
- *
- * Adilson L. Magnus <info@magnusbilling.com> 
- * 15/04/2013
- */
 Ext.define('MBilling.model.GroupModule', {
     extend: 'Ext.data.Model',
     idProperty: 'id_group, id_module',

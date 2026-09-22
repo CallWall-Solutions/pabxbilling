@@ -1,13 +1,5 @@
 <?php
 
-/**
- * File-backed IP allowlist for sensitive panel users.
- *
- * A user is unrestricted while its allowlist file does not exist. Once the
- * file exists, only the IP addresses listed in it are accepted. This makes the
- * feature opt-in and prevents an application update from locking out existing
- * installations.
- */
 class PanelIpAccess
 {
     const DEFAULT_DIRECTORY = '/etc/magnusbilling/panel-ip-access';

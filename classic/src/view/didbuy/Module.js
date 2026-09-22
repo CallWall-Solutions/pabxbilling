@@ -1,9 +1,3 @@
-/**
- * Classe que define o panel de "didbuy"
- *
- * MagnusSolution.com <info@magnussolution.com>
- * 17/08/2012
- */
 Ext.define('MBilling.view.didbuy.Module', {
     extend: 'Ext.form.Panel',
     alias: 'widget.didbuymodule',

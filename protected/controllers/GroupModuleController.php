@@ -1,11 +1,4 @@
 <?php
-/**
- * Actions of module "GroupModule".
- *
- * MagnusBilling <info@magnusbilling.com>
- * 15/04/2013
- */
-
 class GroupModuleController extends Controller
 {
     public $titleReport    = 'GroupModule';

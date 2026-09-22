@@ -1,9 +1,4 @@
 <?php
-/* @var $dialogs array */
-/* @var $callIdJson string */
-/* @var $tailLines int */
-/* @var $logPath string */
-
 $this->pageTitle = 'SIPTRACE – sngrep-like (multi-call in one grid)';
 
 // Guards

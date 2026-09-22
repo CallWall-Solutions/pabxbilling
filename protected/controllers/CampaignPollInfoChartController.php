@@ -1,20 +1,4 @@
 <?php
-/**
- * Acoes do modulo "CampaignPollInfo".
- *
- * =======================================
- * ###################################
- * MagnusBilling
- *
- * @package MagnusBilling
- * @author  Adilson Leffa Magnus.
- * @copyright   Todos os direitos reservados.
- * ###################################
- * =======================================
- * Magnusbilling.com <info@magnusbilling.com>
- * 28/10/2012
- */
-
 class CampaignPollInfoChartController extends Controller
 {
     public $attributeOrder = 't.id';

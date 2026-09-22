@@ -1,9 +1,3 @@
-/**
- * Class to define form to "GroupUser"
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 15/04/2013
- */
 Ext.define('MBilling.view.groupUser.Form', {
     extend: 'Ext.ux.form.Panel',
     alias: 'widget.groupuserform',

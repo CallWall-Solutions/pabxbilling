@@ -1,9 +1,3 @@
-/**
- * Class to define ux field "Password"
- *
- * Adilson L. Magnus <info@magnussolution.com> 
- * 21/08/2013
- */
 Ext.define('Ext.ux.form.field.Password', {
     extend: 'Ext.form.FieldContainer',
     alias: 'widget.passwordfield',
